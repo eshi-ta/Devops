@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "se96iItY+tH1ishPMZ2ZHqvEtxlVW/PJNAe7MsSteSzD4ETJmsNkTvKsnj15f2nt4X7kVTSO+bT/fefCf3qLHQ==",
+  "dgSpecHash": "vzlf50MJo8FgV4ZM5PBgRXIkUz0NIMZ+CIbROF8/Eycn7Ki6vB/2FmmY3wlsq+Q4rkkxG73BP3CaJYlJTSFtSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eshitasingh\\Desktop\\student_api_devops\\student_api_devops.Tests\\student_api_devops.Tests.csproj",
+  "projectFilePath": "C:\\Users\\eshitasingh\\Desktop\\Devops\\student_api_devops\\student_api_devops.Tests\\student_api_devops.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eshitasingh\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\eshitasingh\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -14,6 +14,7 @@
     "C:\\Users\\eshitasingh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\eshitasingh\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\eshitasingh\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\eshitasingh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\eshitasingh\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\eshitasingh\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\eshitasingh\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
